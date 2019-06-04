@@ -1,0 +1,82 @@
+{
+  "_from": "jscssp",
+  "_id": "jscssp@0.5.0",
+  "_inBundle": false,
+  "_integrity": "sha1-97IrIUtZ/K8mAOjYDy2DkmroxoQ=",
+  "_location": "/jscssp",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "jscssp",
+    "name": "jscssp",
+    "escapedName": "jscssp",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/jscssp/-/jscssp-0.5.0.tgz",
+  "_shasum": "f7b22b214b59fcaf2600e8d80f2d83926ae8c684",
+  "_spec": "jscssp",
+  "_where": "/home/koalati/public_html",
+  "author": {
+    "name": "Daniel Glazman"
+  },
+  "bugs": {
+    "url": "https://github.com/NV/JSCSSP/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Daniel Glazman",
+      "email": "daniel@glazman.org"
+    }
+  ],
+  "deprecated": false,
+  "description": "JSCSSP is a CSS parser. It parses a string containing CSS styles and outputs a CSS Object Model.",
+  "engines": {
+    "node": "*"
+  },
+  "homepage": "http://www.glazman.org/JSCSSP/",
+  "keywords": [
+    "CSS",
+    "parser"
+  ],
+  "licenses": [
+    {
+      "type": "MPL 1.1",
+      "url": "http://www.mozilla.org/MPL/"
+    },
+    {
+      "type": "GPL 2",
+      "url": "http://www.gnu.org/licenses/gpl-2.0.html"
+    },
+    {
+      "type": "LGPL 2.1",
+      "url": "http://www.gnu.org/licenses/lgpl-2.1.html"
+    }
+  ],
+  "main": "cssParser.js",
+  "maintainers": [
+    {
+      "name": "Nikita Vasilyev",
+      "url": "http://elv1s.ru"
+    }
+  ],
+  "name": "jscssp",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git://github.com/NV/JSCSSP.git"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/NV/JSCSSP.git"
+  },
+  "version": "0.5.0"
+}
